@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vedant4634/leetcode_questions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
