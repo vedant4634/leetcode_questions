@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/vedant4634/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vedant4634/leetcode_questions/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/vedant4634/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/vedant4634/leetcode_questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
