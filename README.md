@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vedant4634/leetcode_questions/tree/master/0344-reverse-string) |
+| [1678-goal-parser-interpretation](https://github.com/vedant4634/leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
