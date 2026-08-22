@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vedant4634/leetcode_questions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/vedant4634/leetcode_questions/tree/master/0342-power-of-four) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vedant4634/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedant4634/leetcode_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
