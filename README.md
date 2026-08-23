@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vedant4634/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vedant4634/leetcode_questions/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/vedant4634/leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
