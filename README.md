@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedant4634/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1313-decompress-run-length-encoded-list](https://github.com/vedant4634/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/vedant4634/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
