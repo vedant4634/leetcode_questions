@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vedant4634/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vedant4634/leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/vedant4634/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedant4634/leetcode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vedant4634/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vedant4634/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vedant4634/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
