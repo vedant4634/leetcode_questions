@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedant4634/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vedant4634/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vedant4634/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vedant4634/leetcode_questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/vedant4634/leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedant4634/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
