@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/vedant4634/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/vedant4634/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant4634/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant4634/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
