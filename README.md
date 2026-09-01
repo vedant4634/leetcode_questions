@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vedant4634/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/vedant4634/leetcode_questions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vedant4634/leetcode_questions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/vedant4634/leetcode_questions/tree/master/0342-power-of-four) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vedant4634/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vedant4634/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vedant4634/leetcode_questions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vedant4634/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedant4634/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vedant4634/leetcode_questions/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vedant4634/leetcode_questions/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
@@ -149,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant4634/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
