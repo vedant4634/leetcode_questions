@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vedant4634/leetcode_questions/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/vedant4634/leetcode_questions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vedant4634/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/vedant4634/leetcode_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vedant4634/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1534-count-good-triplets](https://github.com/vedant4634/leetcode_questions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/vedant4634/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant4634/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
