@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/vedant4634/leetcode_questions/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vedant4634/leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vedant4634/leetcode_questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vedant4634/leetcode_questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1534-count-good-triplets](https://github.com/vedant4634/leetcode_questions/tree/master/1534-count-good-triplets) |
