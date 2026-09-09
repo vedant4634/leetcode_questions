@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vedant4634/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vedant4634/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedant4634/leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/vedant4634/leetcode_questions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/vedant4634/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedant4634/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/vedant4634/leetcode_questions/tree/master/1207-unique-number-of-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vedant4634/leetcode_questions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/vedant4634/leetcode_questions/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vedant4634/leetcode_questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vedant4634/leetcode_questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
