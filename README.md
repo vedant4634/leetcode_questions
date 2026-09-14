@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/vedant4634/leetcode_questions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/vedant4634/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/vedant4634/leetcode_questions/tree/master/1854-maximum-population-year) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant4634/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vedant4634/leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vedant4634/leetcode_questions/tree/master/3903-smallest-stable-index-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/vedant4634/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/vedant4634/leetcode_questions/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vedant4634/leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/vedant4634/leetcode_questions/tree/master/0724-find-pivot-index) |
+| [1854-maximum-population-year](https://github.com/vedant4634/leetcode_questions/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/vedant4634/leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
