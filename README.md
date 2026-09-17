@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedant4634/leetcode_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedant4634/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vedant4634/leetcode_questions/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/vedant4634/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/vedant4634/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/vedant4634/leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
@@ -210,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vedant4634/leetcode_questions/tree/master/0392-is-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vedant4634/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vedant4634/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vedant4634/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
